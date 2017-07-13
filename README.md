@@ -1,6 +1,6 @@
-# ReduxSimpleStarter
+# Youtube-App
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+An youtube like web application developed with React + ES6 + Youtube API.
 
 ### Getting Started
 
